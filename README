@@ -1,0 +1,22 @@
+The program can be run on MAC OS and Windows OS
+Requires Pycharm IDE or any other equivalent IDE to open and execute the Project.
+Python version 3 is used for coding.
+Hashmap Datastructure is used to the elements and its sum.
+
+Open the project in Pycharm
+The folder contains the following files :
+
+Input: 4 input text files containing 20,100,1000 and 4000 rows with 3 elements and its sum
+Output file: Total 12 output files, 4 each for three sorting algorithms insertion, merge and quicksort.
+Sorting algorithms: Insertion.py , Merge.py, Quicksort.py
+Input Generator: input_generator.py to generate 4 text files for input dataset.
+Runner.py: Main file to run the code.
+
+Steps to execute the program:
+
+1) Run the Runner.py file.
+2) After execution the terminal displays option to select the algorithm in 3 choice (1-3)
+3) Enter the choice 
+4) The sorting times for 4 input files will be displayed in the terminal and the sorted rows will be stored in the text files.
+
+
